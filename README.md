@@ -38,7 +38,7 @@ Este projeto consiste em desenvolver um sistema de gestão de inventário para u
 
 
 ## Contato
-- **Seu nome**: 
-- **E-mail**: 
+- **Nome**: Gabriel Santana
+- **E-mail**: gabrielkfs10@gmail.com
 
 ---
